@@ -14,7 +14,7 @@
 	</StyleMap>
 	<Style id="inline0">
 		<LineStyle>
-			<color>ff0000ff</color>
+			<color>ff00ffff</color>
 			<width>2</width>
 		</LineStyle>
 		<PolyStyle>
@@ -23,7 +23,7 @@
 	</Style>
 	<Style id="inline1">
 		<LineStyle>
-			<color>ff0000ff</color>
+			<color>ff00ffff</color>
 			<width>2</width>
 		</LineStyle>
 		<PolyStyle>
@@ -38,11 +38,11 @@ Plotted by Jeremy Epstein - http://greenash.net.au/ - July 2013.
 
 Section: former main line from Johannesburg to Bulawayo.
 
-Marked in red, indicating that:
+Marked in yellow, indicating that:
 
-- Line is well-established, has been used and maintained for over a century
+- Line may be semi-abandoned, no recent usage or maintenance information for the line is available
 
-- Semi-regular passenger services of limited classes traverse this route</description>
+- Unclear if any regular passenger services currently traverse this route</description>
 		<styleUrl>#inline</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>

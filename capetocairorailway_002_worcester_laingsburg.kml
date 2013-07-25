@@ -14,7 +14,7 @@
 	</StyleMap>
 	<Style id="inline">
 		<LineStyle>
-			<color>ff0000ff</color>
+			<color>ff00ff00</color>
 			<width>2</width>
 		</LineStyle>
 		<PolyStyle>
@@ -23,7 +23,7 @@
 	</Style>
 	<Style id="inline1">
 		<LineStyle>
-			<color>ff0000ff</color>
+			<color>ff00ff00</color>
 			<width>2</width>
 		</LineStyle>
 		<PolyStyle>
@@ -38,7 +38,7 @@ Plotted by Jeremy Epstein - http://greenash.net.au/ - July 2013.
 
 Section: main line from Cape Town to Johannesburg.
 
-Marked in red, indicating that:
+Marked in green, indicating that:
 
 - Line is very well-established, has been actively used and maintained for over a century
 
