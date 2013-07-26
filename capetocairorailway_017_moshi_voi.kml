@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>capetocairorailway_017_moshi_voi.kml</name>
+	<StyleMap id="lineStyle0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#lineStyle01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#lineStyle00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="lineStyle01">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle00">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Moshi to Voi</name>
+		<description>Part 17 of the Cape to Cairo railway route.
+
+Plotted by Jeremy Epstein - http://greenash.net.au/ - July 2013.
+
+Section: former main line from Moshi to Voi.
+
+Marked in yellow, indicating that:
+
+- Line is semi-abandoned, minimally maintained, only occasional traffic of any sort
+
+- No regular passenger services currently traverse this route</description>
+		<styleUrl>#lineStyle0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				37.34654035263475,-3.350727981745033,0 37.34271829532105,-3.356925060946727,0 37.3418361424274,-3.358927271371058,0 37.34155223540102,-3.360329628767921,0 37.34148536378878,-3.361921464322111,0 37.34319738023151,-3.375802804551025,0 37.34361873925778,-3.376897337694618,0 37.35190920764089,-3.395684365744011,0 37.36204596213407,-3.403545286762541,0 37.43280603699086,-3.491606293831583,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
